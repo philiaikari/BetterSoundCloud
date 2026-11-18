@@ -1,5 +1,8 @@
 # BetterSoundCloud
 
+## THIS FORK IS TO RELEASE BUILT MAC VERSIONS. 
+###### I'm aware that AlizeraKJ's repo doesn't have a Mac build for BSC because of notarised/gatekeeper issue, cause it is out of their funding. Still, you can bypass it by either building the source yourself. Check [CONTRIBUTING.md](CONTRIBUTING.md) or download BSC from [releases](https://github.com/philiaikari/BetterSoundCloud/releases/tag/Mac) and follow the instructions in there.
+
 [![Downloads](https://img.shields.io/github/downloads/AlirezaKJ/BetterSoundCloud/total.svg)](https://github.com/AlirezaKJ/BetterSoundCloud/releases)
 
 SoundCloud on your desktop, in a window of its own. BetterSoundCloud runs SoundCloud's own web player and adds what a browser tab can't: synced lyrics, Discord Rich Presence, Last.fm scrobbling, an equaliser, a pitch changer, a visualizer, themes, a glass look on Windows 11, keyboard shortcuts that work from any app, plugins, and skipping the audio ads between tracks.
